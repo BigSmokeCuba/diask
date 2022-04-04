@@ -1,9 +1,9 @@
 {
     "limit": 250,
-    "user" : "cvgonzales",
-    "pwd"  : "pusipo-759",
+    "user" : "darian.borges@estudiantes.fbio.uh.cu",
+    "pwd"  : "darian1995",
     "server" : {
-        "url": "moodle.uclv.edu.cu",
+        "url": "https://evea.uh.cu",
         "scheme": "https",
         "use_image": true,
         "repo_id": 4
